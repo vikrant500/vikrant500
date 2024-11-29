@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there! I'm Vikrant, a passionate BTech student currently diving into the fascinating world of Artificial Intelligence, Machine Learning, and Web Development.<br><br>Currently:<br><br>Exploring the magic of computer vision through AIML projects.<br>️ Building a full-stack website from scratch (frontend + backend!).<br>Deepening my knowledge in AIML, IoT, and competitive programming.<br>Mastering the art of web development and API creation.<br>☁️ Gearing up to conquer the realm of cloud computing.<br>Skills:<br><br>Python<br>C, C++, Java<br>HTML, CSS<br>⚡️ JavaScript (learning)<br>TypeScript (learning)<br>Looking for:<br><br>Collaborations on AIML projects and research papers.<br>Minds to brainstorm and build exciting stuff with.<br>Beyond code:<br><br>️ **Amazing leader**: Keeping teams happy and motivated comes naturally to me.<br>**Debater**: Over 25+ MUNs under my belt, ready to tackle any argument.<br>**MMA & Kickboxing enthusiast**: Bringing discipline and focus to both code and the ring.<br>Want to connect? Let's chat!
 
+https://colab.research.google.com/drive/11sWcZPOuYyutnRap4lfIWy5IQxNdH4bk?usp=sharing
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-sharma-1809b5286/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22365674/vikrant?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vik_5000) 
